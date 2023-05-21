@@ -1,0 +1,23 @@
+2023-05-13 12:45:26,080 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-13 12:45:28,409 [main] DEBUG baseClass.BaseClass - Browser Launched
+2023-05-13 12:45:28,545 [main] DEBUG baseClass.BaseClass - Windows Maximized
+2023-05-13 12:45:45,313 [main] DEBUG baseClass.BaseClass - URL launched: https://opensource-demo.orangehrmlive.com/
+2023-05-13 12:45:45,321 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-13 12:45:45,338 [main] DEBUG baseClass.BaseClass - Locators loaded with PageFactory
+2023-05-13 12:45:45,367 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-13 13:39:49,293 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-13 13:40:34,094 [main] DEBUG baseClass.BaseClass - Browser Launched
+2023-05-13 13:40:34,220 [main] DEBUG baseClass.BaseClass - Windows Maximized
+2023-05-13 13:40:48,310 [main] DEBUG baseClass.BaseClass - URL launched: https://opensource-demo.orangehrmlive.com/
+2023-05-13 13:40:48,343 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-13 13:40:48,375 [main] DEBUG baseClass.BaseClass - Locators loaded with PageFactory
+2023-05-13 13:40:48,438 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-13 13:40:48,445 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-17 09:58:43,708 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-17 09:59:29,930 [main] DEBUG baseClass.BaseClass - Browser Launched
+2023-05-17 09:59:30,057 [main] DEBUG baseClass.BaseClass - Windows Maximized
+2023-05-17 10:01:29,900 [main] DEBUG baseClass.BaseClass - URL launched: https://opensource-demo.orangehrmlive.com/
+2023-05-17 10:01:29,933 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-17 10:01:29,965 [main] DEBUG baseClass.BaseClass - Locators loaded with PageFactory
+2023-05-17 10:01:29,990 [main] DEBUG baseClass.BaseClass - Test Data property file configured!
+2023-05-17 10:01:29,996 [main] DEBUG baseClass.BaseClass - Test Data property file configured!

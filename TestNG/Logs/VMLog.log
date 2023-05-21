@@ -1,0 +1,23 @@
+2023-05-13 12:45:26,080 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-13 12:45:28,409 - baseClass.BaseClass -DEBUG - Browser Launched
+2023-05-13 12:45:28,545 - baseClass.BaseClass -DEBUG - Windows Maximized
+2023-05-13 12:45:45,313 - baseClass.BaseClass -DEBUG - URL launched: https://opensource-demo.orangehrmlive.com/
+2023-05-13 12:45:45,321 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-13 12:45:45,338 - baseClass.BaseClass -DEBUG - Locators loaded with PageFactory
+2023-05-13 12:45:45,367 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-13 13:39:49,293 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-13 13:40:34,094 - baseClass.BaseClass -DEBUG - Browser Launched
+2023-05-13 13:40:34,220 - baseClass.BaseClass -DEBUG - Windows Maximized
+2023-05-13 13:40:48,310 - baseClass.BaseClass -DEBUG - URL launched: https://opensource-demo.orangehrmlive.com/
+2023-05-13 13:40:48,343 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-13 13:40:48,375 - baseClass.BaseClass -DEBUG - Locators loaded with PageFactory
+2023-05-13 13:40:48,438 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-13 13:40:48,445 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-17 09:58:43,708 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-17 09:59:29,930 - baseClass.BaseClass -DEBUG - Browser Launched
+2023-05-17 09:59:30,057 - baseClass.BaseClass -DEBUG - Windows Maximized
+2023-05-17 10:01:29,900 - baseClass.BaseClass -DEBUG - URL launched: https://opensource-demo.orangehrmlive.com/
+2023-05-17 10:01:29,933 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-17 10:01:29,965 - baseClass.BaseClass -DEBUG - Locators loaded with PageFactory
+2023-05-17 10:01:29,990 - baseClass.BaseClass -DEBUG - Test Data property file configured!
+2023-05-17 10:01:29,996 - baseClass.BaseClass -DEBUG - Test Data property file configured!
