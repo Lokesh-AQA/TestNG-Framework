@@ -6,8 +6,7 @@ import java.util.Properties;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
+import access.Environment;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass extends Environment{
