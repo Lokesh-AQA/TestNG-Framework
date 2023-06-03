@@ -26,7 +26,7 @@ public class LoginPage extends BaseClass
 	public static WebElement invldLoginMsg;
 	
 	
-	public LoginPage()        //Constructor
+	public LoginPage() //Constructor
 	{
 		PageFactory.initElements(d, this);
 		log.debug("Locators loaded with PageFactory");
